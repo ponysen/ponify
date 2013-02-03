@@ -1,0 +1,8 @@
+eclipse/*/bin/
+eclipse/.metadata
+eclipse/*/.settings/
+
+origapks/
+ponyapks/
+
+.*.swp
